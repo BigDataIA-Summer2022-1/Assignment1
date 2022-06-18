@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
+# Author: Zifeng and Adina
+# Date: Jun 18th, 2022
 
 from skimage.io import imread
 
