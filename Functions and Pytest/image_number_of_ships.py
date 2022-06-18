@@ -1,3 +1,6 @@
+# Author: Zifeng 
+# Date: Jun 18th, 2022
+
 import pandas as pd
 
 def image_num_ships():
