@@ -42,8 +42,8 @@ Contributions Statement:
 
 1. Adina - 50%
 * Data Profiling
-* Data as a Service
+* Data Validation
 
 2. Zifeng - 50%
-* Data Validation
+* Data as a Service
 * Data Model Card
