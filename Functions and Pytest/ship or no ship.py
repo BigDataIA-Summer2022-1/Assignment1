@@ -7,7 +7,7 @@
 def search_ship():
     '''
     Input: type: A string 'ship' or 'noship'
-    Output: All the images with ship(s) or noship in our dataset if input is 'ship' or 'noship', respectively.
+    Output: One of the images with ship(s) or noship in our dataset if input is 'ship' or 'noship', respectively.
     '''
     UserInput = input("Enter ship or noship")
     
